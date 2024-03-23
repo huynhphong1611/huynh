@@ -1,5 +1,12 @@
+---
+layout: post
+title: My portfolio
+date: 2024-03-23 20:12:00
+categories: [portfolio, invest, dautu, danhmuc]
+---
 # Danh mục đầu tư của tôi
 ## Biểu đồ tròn phân bổ danh mục
-<img src="assets\image\Danhmuc.png" alt="Danh mục">
+![Danh mục](../assets/image/Danhmuc.png)
+
 ## Dominance 
-<img src="assets\image\Dominance.png" alt="Dominance">
+![Dominance](../assets/image/Dominance.png)
